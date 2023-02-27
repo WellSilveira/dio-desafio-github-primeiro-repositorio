@@ -1,1 +1,7 @@
 Arquivos para colocar futuras anotações do curso e dúvidas.
+
+Sempre que for enviar um arquivo do Git para o GitHub, precisamos seguir os passos:
+
+- Git add . ou Git add -a (para incluir todos os arquivos)
+- Git Commit  -m  - Para comitar o aruivo, importante (-m é para escrever a mensagem do que estamos realizando no comando " ")
+- Git push - para "empurrar" o arquivo do local para o remoto.
